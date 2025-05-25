@@ -8,9 +8,9 @@ Este proyecto contiene un programa en C++ que muestra por consola un menú inter
 
 - vector
 - priority_queue
--deque
--set
--map
+- deque
+- set
+- map
 
 ## Características y operaciones soportadas
 
